@@ -11,5 +11,5 @@ panicsteve's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt/) exten
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
+In Chrome, choose Window > Extensions.  Drag DevToOops.crx into the page that appears.
 
